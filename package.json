@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "Learning Bootstrap v5 with SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letty1909/learnbootstap-v5.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Colette Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letty1909/learnbootstap-v5/issues"
+  },
+  "homepage": "https://github.com/letty1909/learnbootstap-v5#readme"
+}
