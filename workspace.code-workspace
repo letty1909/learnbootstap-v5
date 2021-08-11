@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "learnbootstap-v5",
+			"path": "../bootstrap-v5/learnbootstap-v5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Git"
+	}
+}
